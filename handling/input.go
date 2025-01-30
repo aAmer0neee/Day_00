@@ -6,7 +6,7 @@ import (
 	"os"
 	"sort"
 	"strconv"
-	"../stats"
+	"github.com/aAmer0neee/Day_00/stats"
 )
 
 func reader() []int {
